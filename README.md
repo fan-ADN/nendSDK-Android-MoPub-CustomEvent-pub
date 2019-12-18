@@ -17,4 +17,4 @@ nendSDKのAndroid版MoPubカスタムイベント用ライブラリのリリー�
 
 ## License
 
-Copyright (C) F@N Communications, Inc.
+Copyright (C) FAN Communications, Inc.
